@@ -29,5 +29,24 @@ Os scripts estão escritos em padrão SQL compatível com ambos.
 ## 📌 3. Instruções de Execução
 1. Crie um banco de dados:
    ```sql
-   CREATE DATABASE gestao_treinos;
-   USE gestao_treinos;
+ CREATE DATABASE gestao_treinos;
+ USE gestao_treinos;
+
+2. Execute, na ordem:
+ 01_create_tables.sql
+ 02_insert_data.sql
+ 03_select_queries.sql
+ 04_updates.sql
+ 05_deletes.sql
+
+## 📌 4. Modelo Lógico
+As tabelas implementadas são:
+Atleta
+Treinador
+PlanoTreino
+Treino
+SessaoTreino
+
+## 📌 5. Autor
+Gabriel Coimbra Martins
+Curso: Análise e Desenvolvimento de Sistemas
