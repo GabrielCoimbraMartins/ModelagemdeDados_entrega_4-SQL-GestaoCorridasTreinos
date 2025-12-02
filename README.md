@@ -36,10 +36,15 @@ Os scripts estão escritos em padrão SQL compatível com ambos.
  USE gestao_treinos;
 
 2. Execute, na ordem:
+ 
  01_create_tables.sql
+ 
  02_insert_data.sql
+ 
  03_select_queries.sql
+ 
  04_updates.sql
+ 
  05_deletes.sql
 
 ## 📌 4. Modelo Lógico
