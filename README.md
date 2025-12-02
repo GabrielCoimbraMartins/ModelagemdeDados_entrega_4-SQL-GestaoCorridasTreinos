@@ -28,8 +28,11 @@ Os scripts estão escritos em padrão SQL compatível com ambos.
 
 ## 📌 3. Instruções de Execução
 1. Crie um banco de dados:
+ 
    ```sql
+ 
  CREATE DATABASE gestao_treinos;
+ 
  USE gestao_treinos;
 
 2. Execute, na ordem:
